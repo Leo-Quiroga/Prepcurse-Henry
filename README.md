@@ -1,2 +1,1 @@
-# Prepcurse-Henry
-Repositorio de prueba Mod. 2 Henry
+Este proyecto es una prube de cómo clonar un repositorio desde github
